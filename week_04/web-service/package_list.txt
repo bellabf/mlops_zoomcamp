@@ -1,0 +1,1 @@
+https://repo.anaconda.com/pkgs/main/linux-64/scikit-learn-1.4.2-py312h526ad5a_1.conda
